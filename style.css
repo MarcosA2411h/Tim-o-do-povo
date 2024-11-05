@@ -2,5 +2,23 @@ body{
     background:bisque;
     color:black
     margin: 0px;
-    font-family: "Playwrite"
+    font-family: "Oswald", sans-serif;
+    margin-botton: 100px;
+
+}
+.chamada{
+    background:red(221, 75,75);
+    margin-top: 80px;
+    margin-botton: 80px:
+    display: flex;
+    justify-content: center;
+}
+header{
+    color:rgb(255, 0, 0);
+    font-size:40px;
+    margin-botton: 3px;
+    padding: 20px
+}
+.chamada-texto{
+    margin-right: 5%
 }
